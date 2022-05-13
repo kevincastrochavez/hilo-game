@@ -6,7 +6,7 @@ public class Deck {
 
     public int GetRandomNumber() {
         Random random = new Random();
-        card = random.Next(0, 14);
+        card = random.Next(1, 14);
 
         return card;
     }
