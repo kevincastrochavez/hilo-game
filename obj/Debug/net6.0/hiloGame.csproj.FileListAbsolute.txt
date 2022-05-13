@@ -1,0 +1,15 @@
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/bin/Debug/net6.0/hiloGame
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/bin/Debug/net6.0/hiloGame.deps.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/bin/Debug/net6.0/hiloGame.runtimeconfig.json
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/bin/Debug/net6.0/hiloGame.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/bin/Debug/net6.0/hiloGame.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.csproj.AssemblyReference.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.AssemblyInfoInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.AssemblyInfo.cs
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.csproj.CoreCompileInputs.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/refint/hiloGame.dll
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.pdb
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/hiloGame.genruntimeconfig.cache
+/Users/kevincastro/Desktop/BYU-I/Spring 2022/Programming with Classes 210/week01/hiloGame/obj/Debug/net6.0/ref/hiloGame.dll
